@@ -1,3 +1,4 @@
+# WARNING : While doing the homework, I used version 13.4.1 of Xcode 
 # Second-Week-Homework
 
 1- Playground üzerinden bir şirket yazılımı oluşturacağız. Aşağıdaki maddeler yazılımda karşılanmalıdır.
